@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework#1</title>
+    <style> body {background: gray; color: yellow; } </style>
+</head>
+<body>
+    <header>
+        <a href="/">LOGO</a>
+        <nav>
+            <!-- Navigation to other pages -->
+            <ul>
+              <li><a href="/portfolio">Portfolio</a></li>
+              <li><a href="/contact">Contact</a></li>
+              <li><a href="/about">About</a></li>
+            </ul>
+          </nav>
+          
+        <p> 
+            <h1>
+            Homework with picture of green frog
+            </h1>
+        </p>
+        
+        <img 
+        src="images/green-frog-1361810(1).jpg" alt="Green frog"
+        media="(min-width:600px)"/>
+        
+        
+        <h2> Please click on link below to get more interesting layouts! </h2>
+
+        <h3> <a href="https://www.figma.com/file/4ne9cjmosUiP9OgIdkkYB1/Web-Studio-Homework-Project?node-id=0%3A1" target="_blank">Figma Layouts  </a> </h3>
+        
+        
+        <ul>
+            <li><a href="mailto:mango@mail.pig"> mangomail@mail.pig</a></li>
+            <li><a href="tel:+1234567889"> +1234567889</a></li>
+        </ul>
+    </header>
+        <footer>
+            <address> Warszawa, al. Jana Pawla II </address>
+            
+            <!-- Copyright -->
+            <p>All rights reserved</p>
+        
+            <!-- Social media links -->
+            <ul>
+              <li><a href="">Facebook</a></li>
+              <li><a href="">Twitter</a></li>
+              <li><a href="">Instagram</a></li>
+            </ul>
+
+            
+          </footer>    
+</body>
+</html>
