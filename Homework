@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <img src="images/99f70fe7d427e6c6cf994260ff04f24b.jpg" alt="logo"></a>
+        <img src="images/99f70fe7d427e6c6cf994260ff04f24b.jpg" alt="logo">
         <nav>
             <ul>
               <li><a href="/portfolio">Portfolio</a></li>
@@ -22,8 +22,7 @@
         <h1>Homework with picture of green frog </h1>
                 
         <img 
-        src="images/green-frog-1361810(1).jpg" alt="Green frog"
-        media="(min-width:600px)"/>
+        src="images/green-frog-1361810(1).jpg" alt="Green frog" width="200"/>
                 
         <h2> Please click on link below to get more interesting layouts! </h2>
 
